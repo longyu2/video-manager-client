@@ -1,0 +1,11 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+#app {
+  margin: auto;
+  overflow: hidden;
+  width: 80vw;
+  box-sizing: border-box;
+}
